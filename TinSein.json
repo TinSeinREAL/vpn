@@ -4,33 +4,33 @@
 
 {
 
-         "name": "BG VIP NEW TRUE",
+         "name": "NLW VIP NEW TRUE",
 
-         "url": "https://raw.githubusercontent.com/TinSeinREAL/vpn/main/TH-3BB-DTAC.ovpn"
-
-      },
-
-{
-
-         "name": "BG VIP NEW DTAC",
-
-         "url": "https://raw.githubusercontent.com/TinSeinREAL/vpn/main/TH-3BB-DTAC.ovpn"
+         "url": "https://nlwmyanmar.000webhostapp.com/test/NLW%20TRUE%20VIP.ovpn"
 
       },
 
 {
 
-         "name": "BG FREE DTAC",
+         "name": "NLW VIP NEW DTAC",
 
-         "url": "https://raw.githubusercontent.com/TinSeinREAL/vpn/main/TH-3BB-DTAC.ovpn"
+         "url": "https://nlwmyanmar.000webhostapp.com/test/NLW%20DTAC%20VIP.ovpn"
 
       },
 
 {
 
-         "name": "BG FREE TRUET",
+         "name": "NLW FREE DTAC",
 
-         "url": "https://raw.githubusercontent.com/TinSeinREAL/vpn/main/TH-3BB-DTAC.ovpn"
+         "url": "https://nlwmyanmar.000webhostapp.com/test/NLW-DTAC-FREE.ovpn"
+
+      },
+
+{
+
+         "name": "NLW FREE TRUET",
+
+         "url": "https://nlwmyanmar.000webhostapp.com/test/NLW-TRUE-FREE.ovpn"
 
       }
 
